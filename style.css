@@ -1,1 +1,49 @@
+body {
+  background-color: #FCF9A6
+}
 
+h1{
+ 
+  
+  color:white; 
+  font-size:24px;
+  font-family:arial, Helvetica, sams-serif;
+} 
+
+
+h2{
+  font-size: 18px;
+  font-family:arial, Helvetica, sams-serif;
+}
+
+.top{
+   background-color:#504E2B;
+   margin-left: 10x;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.footer{
+  background-color:#504E2B;
+  color: white;
+  border: 1px solid black;
+}
+
+p,li{
+  font-family:arial, Helvetica, sams-serif;
+}
+
+P{
+  border: 1px solid black; 
+}
+
+.random{
+  background-color:#504E2B;
+  border: 1px solid black;
+  color: white;
+}
+
+.image{
+  display: flex; 
+  justify-content: center
+}
